@@ -2,7 +2,7 @@
 
 This repository accompanies the paper [_The Rise and Fall of Technocratic Democracies: Unstable Majorities and Delegation to Technocrats_](https://gratton.org/papers/TechnocraticDemocracies.pdf), and provides the full set of materials used in its construction, including the data sources, analysis code, and related literature. 
 
-For any queries or collaboration proposals, please contact **Jacob Edenhofer** at [jacob.edenhofer@nuffield.ox.ac.uk](mailto:jacob.edenhofer@nuffield.ox.ac.uk).
+For any queries, please contact Jacob Edenhofer at [jacob.edenhofer@nuffield.ox.ac.uk](mailto:jacob.edenhofer@nuffield.ox.ac.uk).
 
 ---
 
@@ -66,7 +66,13 @@ If using this repository or referencing the accompanying paper, please cite as:
 
 ---
 
-## Contact
+## Authors
+
+📧 Gabriele Gratton (website: [gratton.org/](https://gratton.org/))
+📍 UNSW Business School, School of Economics  
+✉️ [g.gratton@unsw.edu.au](mailto:g.gratton@unsw.edu.au)
+
+
 
 📧 Jacob Edenhofer  
 📍 Nuffield College, University of Oxford  
