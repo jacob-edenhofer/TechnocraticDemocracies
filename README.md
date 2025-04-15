@@ -68,7 +68,8 @@ If using this repository or referencing the accompanying paper, please cite as:
 
 ## Authors
 
-📧 Gabriele Gratton (website: [gratton.org/](https://gratton.org/))
+📧 Gabriele Gratton (website: [gratton.org](https://gratton.org/))
+
 📍 UNSW Business School, School of Economics  
 ✉️ [g.gratton@unsw.edu.au](mailto:g.gratton@unsw.edu.au)
 
